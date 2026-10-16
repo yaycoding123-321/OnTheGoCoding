@@ -1,2 +1,2 @@
-# OnTheGoCoding
+# CodingChromebook
 Yay
